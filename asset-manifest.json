@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Blog/static/css/main.4fe87d87.css",
+    "main.js": "/Blog/static/js/main.1b2e81f6.js",
+    "static/media/pexels-luis-gomes-546819.jpg": "/Blog/static/media/pexels-luis-gomes-546819.fbadd5f4a7152e4b4621.jpg",
+    "index.html": "/Blog/index.html",
+    "main.4fe87d87.css.map": "/Blog/static/css/main.4fe87d87.css.map",
+    "main.1b2e81f6.js.map": "/Blog/static/js/main.1b2e81f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fe87d87.css",
+    "static/js/main.1b2e81f6.js"
+  ]
+}
